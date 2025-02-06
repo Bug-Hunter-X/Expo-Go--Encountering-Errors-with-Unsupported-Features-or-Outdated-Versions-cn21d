@@ -1,0 +1,3 @@
+# Expo Go: Unsupported Features and Outdated Versions
+
+This repository demonstrates a common yet uncommonly documented issue in Expo Go: errors arising from using features unsupported on a specific device or in the current Expo Go version.  The `expoGoBug.js` file simulates a scenario where unsupported functionality is accessed, resulting in an error. The `expoGoBugSolution.js` file presents solutions involving checking device capabilities and updating Expo Go.
