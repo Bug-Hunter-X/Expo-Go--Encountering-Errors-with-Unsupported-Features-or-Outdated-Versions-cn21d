@@ -1,0 +1,1 @@
+This error occurs when you try to use a feature of Expo Go that isn't supported on your device or in the current version of Expo Go.  For instance, using a camera feature on a device without camera permissions or an outdated Expo Go version lacking necessary functionality may cause this.
